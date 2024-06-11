@@ -1,0 +1,22 @@
+{
+  "name": "projetoautoma-ocypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioMatoso29/ProjetoAutoma-oCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauricioMatoso29/ProjetoAutoma-oCypress/issues"
+  },
+  "homepage": "https://github.com/MauricioMatoso29/ProjetoAutoma-oCypress#readme",
+  "dependencies": {
+    "cypress": "^13.11.0"
+  }
+}
