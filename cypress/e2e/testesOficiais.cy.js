@@ -98,7 +98,7 @@ describe('Aprendendo conceitos cypress', () => {
     });
 
     cy.contains('Congratulations! Your new account has been successfully created!').should('be.visible')
-
+//parte que vai deletar a conta
     cy.contains('Continue').click();
 
     cy.contains('Logged in as').should('be.visible');
