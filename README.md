@@ -21,3 +21,18 @@ Os cenários de teste desenvolvidos cobrem várias funcionalidades de um e-comme
 - Testes de finalização de compra.
 - Testes de autenticação (login e registro de usuários).
 
+## Tecnologias Utilizadas
+
+- Cypress
+
+## Contribuindo
+
+Contribuições são bem-vindas! Se você identificar problemas, bugs ou melhorias potenciais, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Contato
+
+- **Email**: mauriciomatoso2941@gmail.com
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
