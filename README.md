@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido com o objetivo de exercitar minhas habilidades em testes de software utilizando a ferramenta [Cypress](https://www.cypress.io/). Estou desenvolvendo vários cenários de testes para uma aplicação fictícia de e-commerce.
+Este projeto foi desenvolvido com o objetivo de exercitar minhas habilidades em testes de software utilizando a ferramenta [Cypress](https://www.cypress.io/). Estou desenvolvendo vários cenários de testes para uma aplicação fictícia de e-commerce [Automation Exercise](https://automationexercise.com/).
 
 ## Ferramentas Utilizadas
 
