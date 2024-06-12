@@ -9,12 +9,12 @@ describe('Outros possíveis cenários', () => {
     cy.contains('Home').should('be.visible');
   }
 
-  it('1 - Verify Test Cases Page', () => {
+  it.only('1 - Checking product page', () => {
     launchAndVerifyHomePage();
 
-    cy.get('a[href="/test_cases"]').first().click();
+    cy.get('a[href="/products"]').first().click();
 
-    cy.contains('Test Cases').should('be.visible');
+    cy.contains('All Products').should('be.visible');
 
   });
 
@@ -67,7 +67,7 @@ describe('Outros possíveis cenários', () => {
     cy.contains('Success! Your details have been submitted successfully.').should('be.visible');
   });
 
-  it.only('6 - Checking if items have been added to the cart', () => {
+  it('6 - Checking if items have been added to the cart', () => {
     launchAndVerifyHomePage();
 
     cy.get('a[href="/products"]').click();

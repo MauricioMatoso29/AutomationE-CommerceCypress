@@ -71,7 +71,7 @@ describe('Válidando cenários de cadastro/login/logout/delete de usuários', ()
       });
   });
 
-  it('2 - Cadastro de usuario já existente', () => {
+  it('2 - Existing user registration', () => {
     launchAndVerifyHomePage();//Arrange
 
     RegisterUser('Mauricio Pontes','mauricio2141@example.com')//Act
